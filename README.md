@@ -1,13 +1,13 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/jimmy_orpheus_github_profile_hero_dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/jimmy_orpheus_github_profile_hero_light_mode.svg">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/jimmy_orpheus_github_profile_hero_dark_mode.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/jimmy_orpheus_github_profile_hero_light_mode.png">
+  <img alt="Shows a daylight dev scnene in light mode and a moonlight dev scene in dark mode." src="./assets/jimmy_orpheus_github_profile_hero_light_mode.png">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/jimmy_orpheus_hi_there_dark_mode.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/jimmy_orpheus_hi_there_light_mode.svg">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows a black greeting text typing animation in light mode and a white greeting text typing animation in dark mode." src="./assets/jimmy_orpheus_hi_there_light_mode.svg">
 </picture>
 
 <!--
