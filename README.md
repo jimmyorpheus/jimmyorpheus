@@ -1,3 +1,5 @@
+[![Hero Banner](./assets/jimmy_orpheus_github_profile_hero.png)](https://www.davidsiegers.com)
+
 ## Hi there 👋
 
 <!--
