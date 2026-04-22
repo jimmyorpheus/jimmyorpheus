@@ -1,6 +1,6 @@
 [![Hero Banner](./assets/jimmy_orpheus_github_profile_hero.png)](https://www.davidsiegers.com)
 
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=000000&width=435&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+profile+page.;I'm+David+Siegers+aka.+jimmyorpheus.;Software+is+my+passion+%26+profession.;Let's+build+something+together!)](https://git.io/typing-svg)
 
 <!--
 **jimmyorpheus/jimmyorpheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
