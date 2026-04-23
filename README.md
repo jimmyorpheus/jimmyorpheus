@@ -10,7 +10,7 @@
   <img alt="Shows a black greeting text typing animation in light mode and a white greeting text typing animation in dark mode." src="./assets/jimmy_orpheus_hi_there_light_mode.svg">
 </picture>
 
-## 👨‍💻 My Technology Stack
+## 🛠️ Core Stack & Tools
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
