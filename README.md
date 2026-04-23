@@ -10,6 +10,13 @@
   <img alt="Shows a black greeting text typing animation in light mode and a white greeting text typing animation in dark mode." src="./assets/jimmy_orpheus_hi_there_light_mode.svg">
 </picture>
 
+## 👨‍💻 Technology Stack
+
+<!-- https://github.com/tandpfun/skill-icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,dotnet,java,py,firebase,html,css,js,jquery,php,bootstrap,mysql,androidstudio,swift,unity,git,perl,bash,arduino,raspberrypi&theme=light&perline=10" alt="Icons showing my technology stack"/>
+</p>
+
 <!--
 **jimmyorpheus/jimmyorpheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
