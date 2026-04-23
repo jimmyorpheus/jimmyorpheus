@@ -15,7 +15,7 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nodejs,react,vue,jest,tailwind,php,symfony,laravel,graphql,gitlab,docker,ansible,jenkins,redis,mysql,postgres,elasticsearch,vscode,phpstorm&theme=dark&perline=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,nodejs,react,vue,jest,tailwind,php,symfony,laravel,graphql,gitlab,docker,ansible,jenkins,redis,mysql,postgres,elasticsearch,vscode,phpstorm&theme=light&perline=5">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,jest,tailwind,php,symfony,laravel,graphql,gitlab,docker,ansible,jenkins,redis,mysql,postgres,elasticsearch,vscode,phpstorm&theme=light&perline=5">
   <img alt="Shows techstack icons on white background in light mode and a techstack icons on darkish background in dark mode." src="https://skillicons.dev/icons?i=ts,nodejs,react,vue,jest,tailwind,php,symfony,laravel,graphql,gitlab,docker,ansible,jenkins,redis,mysql,postgres,elasticsearch,vscode,phpstorm&theme=light&perline=5">
 </picture>
 
